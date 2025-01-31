@@ -77,6 +77,7 @@ Acknowledgements
 
 The data used in this app is sourced from Elder Scrolls Fandom, including ingredients found in official expansions and add-ons.
 Special thanks to the Skyrim community for contributing detailed ingredient and effect data.
-Contact
+
+# Contact
 
 For any issues or feature requests, please feel free to open an issue on this repository or contact me at [jessica.lynn.graves@example.com].
