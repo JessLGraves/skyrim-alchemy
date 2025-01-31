@@ -1,0 +1,56 @@
+Effect,Id,Description,Magnitude,Value,Type
+Cure Disease,000ae723,Cures all diseases,5,21,Potion
+Damage Health,0003eb42,Causes poison damage,2,3,Poison
+Damage Magicka,0003a2b6,Drains the target's Magicka,3,52,Poison
+Damage Magicka Regen,00073f2b,Decrease target's Magicka regeneration by 100%,5,265,Poison
+Damage Stamina,0003a2c6,Drain the target's Stamina,3,43,Poison
+Damage Stamina Regen,00073f2c,Decrease target's Stamina regeneration by 100%,5,159,Poison
+Fear,00073f20,Creatures and people flee for 30 seconds,1,120,Potion
+Fortify Alteration,0003eb24,Alteration spells last longer for 60 seconds,4,47,Potion
+Fortify Barter,0003eb23,You haggle for better prices for 30 seconds,1,48,Potion
+Fortify Block,0003eb1c,Blocking absorbs more damage for 60 seconds,4,118,Potion
+Fortify Carry Weight,0003eb01,Carrying capacity increases for 300 seconds,4,208,Potion
+Fortify Conjuration,0003eb25,Conjuration spells last longer for 60 seconds,5,75,Potion
+Fortify Destruction,0003eb26,Destruction spells deal more damage for 60 seconds,5,151,Potion
+Fortify Enchanting,0003eb29,For 30 seconds items are enchanted stronger,1,14,Potion
+Fortify Health,0003eaf3,Health is increased for 60(300) seconds,4,82,Potion
+Fortify Heavy Armor,0003eb1e,Increase Heavy Armor skill for 60 seconds,2,55,Potion
+Fortify Illusion,0003eb27,Illusion spells are stronger for 60 seconds,4,94,Potion
+Fortify Light Armor,0003eb1f,Increases Light Armor skill for 60 seconds,2,55,Potion
+Fortify Lockpicking,0003eb21,Lockpicking is easier for 30 seconds,2,25,Potion
+Fortify Magicka,0003eaf8,Magicka is increased for 60 seconds,4,71,Potion
+Fortify Marksman,0003eb1b,Bows do more damage for 60 seconds,4,118,Potion
+Fortify One Handed,0003eb19,One-handed weapons do more damage for 60 seconds,4,118,Potion
+Fortify Pickpocket,0003eb20,Pickpocketing is easier for 60 seconds,4,118,Potion
+Fortify Restoration,0003eb28,Restoration spells are stronger for 60 seconds,4,118,Potion
+Fortify Smithing,0003eb1d,For 30 seconds weapon and armor improving is better,4,82,Potion
+Fortify Sneak,0003eb22,You are harder to detect for 60 seconds,4,118,Potion
+Fortify Stamina,0003eaf9,Stamina is increased for 60 seconds,4,71,Potion
+Fortify Two Handed,0003eb1a,Two-handed weapons do more damage for 60 seconds,4,118,Potion
+Frenzy,00073f29,Creatures and people will attack anything nearby for 10 seconds,1,107,Potion
+Invisibility,0003eb3d,Invisibility,4,261,Potion
+Lingering Damage Health,0010aa4a,Causes poison damage for 10 seconds,1,86,Poison
+Lingering Damage Magicka,0010de5f,Drains the target's Magicka for 10 seconds,1,71,Poison
+Lingering Damage Stamina,0010de5e,Drain the target's Stamina for 10 seconds,1,12,Poison
+Paralysis,00073f30,Target is paralyzed,1,285,Potion
+Ravage Health,00073f26,Causes concentrated poison damage,2,6,Poison
+Ravage Magicka,00073f27,Concentrated poison damages Magicka,2,15,Poison
+Ravage Stamina,00073f23,Concentrated poison damages Stamina,2,24,Poison
+Regenerate Health,0003eb06,Health regenerates faster for 300 seconds,5,177,Potion
+Regenerate Magicka,0003eb07,Magicka regenerates faster for 300 seconds,5,177,Potion
+Regenerate Stamina,0003eb08,Stamina regenerates faster for 300 seconds,5,177,Potion
+Resist Fire,0003eaea,Resist fire damage for 60 seconds,3,86,Potion
+Resist Frost,0003eaeb,Resist frost damage for 60 seconds,3,86,Potion
+Resist Magic,00039e51,Resist magic for 60 seconds,1,51,Potion
+Resist Poison,00090041,Resist poison for 60 seconds,4,118,Potion
+Resist Shock,0003eaec,Resist shock damage for 60 seconds,3,86,Potion
+Restore Health,0003eb15,Restore Health,5,21,Potion
+Restore Magicka,0003eb17,Restore Magicka,5,25,Potion
+Restore Stamina,0003eb16,Restore Stamina,5,25,Potion
+Slow,00073f25,Target moves at 50% speed,5,247,Potion
+Waterbreathing,0003ac2d,Can breath underwater,5,100,Potion
+Weakness to Fire,00073f2d,Target is weaker to fire damage for 30 seconds,3,48,Potion
+Weakness to Frost,00073f2e,Target is weaker to frost damage for 30 seconds,3,40,Potion
+Weakness to Magic,00073f51,Target is weaker to magic for 30 seconds,2,51,Potion
+Weakness to Poison,00090042,Target is weaker to poison damage for 30 seconds,2,51,Potion
+Weakness to Shock,00073f2f,Target is weaker to shock damage for 30 seconds,3,56,Potion
