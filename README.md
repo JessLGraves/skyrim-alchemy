@@ -1,4 +1,4 @@
-# Skyrim Ingredient Effect Finder
+# Skyrim Alchemy Assistant
 
 This is a [Shiny web application](https://jessgraves.shinyapps.io/skyrim-ingredients/) designed to help users explore the effects of different ingredients in The Elder Scrolls V: Skyrim. The tool allows players to search for individual ingredients, find their effects, and combine multiple ingredients to see their shared effects for crafting potions or poisons.
 
